@@ -1,2 +1,3 @@
-# kokoa-clone-2020
-nomad coder challenge
+# kakao-clone
+
+cloning kakao desktop app with NOMAD CODER
